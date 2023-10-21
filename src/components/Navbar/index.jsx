@@ -18,7 +18,7 @@ export const Navbar = () => {
             <motion.div className="fixed z-[99999] bg-[#111]/40 w-screen grid place-self-center md:px-10 h-20 !text-[#fff]">
                 <motion.div className="px-4 py-6 flex flex-row justify-between items-center">
                     <div className="flex flex-row items-center gap-1">
-                        <img src={"/images/abrahamlogo.png"} alt="logo" className="object-contain" style={{
+                        <img src={"/images/logo.png"} alt="logo" className="object-contain" style={{
                             height: "40px",
                             width: "40px",
                             color: "transparent"

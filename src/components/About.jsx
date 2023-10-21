@@ -17,7 +17,7 @@ export const About = () => {
                     <div className="flex flex-col items-center justify-center md:flex-row md:justify-start md:items-start">
                         <div className="flex flex-col md:flex-row md:justify-between justify-center items-center md:items-center gap-1 mt-24 md:px-12">
                             {/* <h1 className="text-4xl md:text-6xl font-Recoleta-black font-normal !text-transparent text-outline">About Me</h1> */}
-                            <img src="/images/abrahamlogo.png" alt="logo" className="object-contain" style={{
+                            <img src="/images/tobi-logo.png" alt="logo" className="object-contain" style={{
                                 height: "500px",
                                 width: "500px",
                                 color: "transparent"

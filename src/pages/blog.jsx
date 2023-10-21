@@ -6,7 +6,7 @@ export const Blog = () => {
     const [blogs, setBlogs] = useState()
     const GET_USER_ARTICLES = `
     query GetUserArticles($page: Int!) {
-        user(username: "tobithealpha") {
+        user(username: "abrahamdominic") {
             publication {
                 posts(page: $page) {
                     title
