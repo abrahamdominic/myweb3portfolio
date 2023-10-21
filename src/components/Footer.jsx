@@ -25,11 +25,11 @@ export const Footer = () => {
                         <ul className="flex flex-row justify-between items-center gap-10">
                             <li><a className="font-bricolage font-[400] text-[16px]" href="/">Home</a></li>
                             <li><a className="font-bricolage font-[400] text-[16px]" href="/#about">About</a></li>
-                            <li><a className="font-bricolage font-[400] text-[16px]" target="_blank" href="https://blog.heistobi.xyz">Blog</a></li>
+                            <li><a className="font-bricolage font-[400] text-[16px]" target="_blank" href="https://abrahamdominic.hashnode.dev">Blog</a></li>
                         </ul>
 
 
-                        <p className="font-bricolage font-[400] text-[16px]">© 2023 Tobi</p>
+                        <p className="font-bricolage font-[400] text-[16px]">© 2023 Abraham Dominic Newton</p>
 
 
                         <ul className="flex flex-row justify-between items-center gap-10">
