@@ -24,7 +24,7 @@ export const Hero = () => {
                                 <br />
                                <span>Software</span>
                                 <br />
-                               <span>developer</span>
+                               <span>Developer</span>
                             </animated.h1>
 
                             <a href={`mailto:${personal}`} className="py-2 px-5 !mt-10 hover:bg-white/20 hover:border-bg-white hover:backdrop-blur-lg hover:text-white duration-100 border-white border-2 text-white rounded-lg">Reach out to me!</a>
