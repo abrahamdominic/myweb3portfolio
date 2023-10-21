@@ -26,7 +26,7 @@ export const About = () => {
                                 I am a software developer based in Nigeria. I am a software developer with 4+ years of experience building cool products/projects.
                                 I'm also a web3 developer, blockchain developer and a community manager. I'm a 3x Founder building products around blockchain. I'm the <b>Blockchain Guru</b> :)
                                 <br />
-                                I've built projects like <a className="underline" target="_blank" href="https://dativejs.js.org">Dativejs</a>. You like my works/projects or me 😉😉 show it on my <a className="underline" href="https://www.buymeacoffee.com/abrahamdominic" target="_blank" rel="noopener noreferrer">Buymeacoffe</a>
+                                I've built projects like <a className="underline" target="_blank" href="https://fuwelibrary.netlify.app">Federal University Wukari E-library</a>. You like my works/projects or me 😉😉 show it on my <a className="underline" href="https://www.buymeacoffee.com/abrahamdominic" target="_blank" rel="noopener noreferrer">Buymeacoffe</a>
                             </span>
                         </div>
                     </div>

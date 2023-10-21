@@ -2,7 +2,7 @@ import { useRef, useState } from "react"
 import { motion } from "framer-motion"
 import { Link } from 'react-scroll';
 import { personal } from "../../utils/emails";
-// import tobi from "../../assets/tobi_eth.png"
+// import dominic from "../../assets/abrahamlogo.png"
 
 
 export const Navbar = () => {
@@ -23,7 +23,7 @@ export const Navbar = () => {
                             width: "40px",
                             color: "transparent"
                         }} />
-                        <motion.h1 className="text-xl text-white font-bricolage lg:text-3xl uppercase font-bricolage">$Defiiboy</motion.h1>
+                        <motion.h1 className="text-xl text-white font-bricolage lg:text-3xl uppercase font-bricolage">$Dominic</motion.h1>
                     </div>
                     <motion.div>
                     </motion.div>

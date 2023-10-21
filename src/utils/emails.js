@@ -1,2 +1,2 @@
-export const personal = "hi@abrahamweb3.netlify.app"
-export const management = "management@abrahamweb3.netlify.app"
+export const personal = "hi@abrahamdominic005@gmail.com"
+export const management = "management@abrahamdominic005@gmail.com"
